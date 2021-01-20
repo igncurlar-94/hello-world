@@ -1,2 +1,2 @@
 # hello-world
-repositorio de prueba 
+este es el primer repositorio
